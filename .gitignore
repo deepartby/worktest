@@ -26,7 +26,7 @@
 !bin/console
 !bin/symfony_requirements
 
-# Assets and user uploads
+# Assets and user uploadsit
 /web/bundles/
 /web/uploads/
 
@@ -39,3 +39,5 @@
 
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
+
+.idea/
